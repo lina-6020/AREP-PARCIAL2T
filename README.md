@@ -1,4 +1,5 @@
 # ParcialT2_Arep2021-1
+## Estudiante: Lina Maria Buitrago Espindola
 Este parcial consta de tres partes:
 1. La creación de un aplicativo web. 
 2. La creación de una imagen en docker correctamente subida en DockerHub.
@@ -138,7 +139,7 @@ Verificamos el correcto funcionamiento localmente
 
 ![image](https://user-images.githubusercontent.com/59893804/137209342-1f07d37c-8f65-4752-bb67-4677cb500d65.png)
 
-#### **Evidencia del Correcto Funcionamiento**
+# **Evidencia del Correcto Funcionamiento**
 [![Evidencia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/71px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=hp0tfZKRiug)
 
 
